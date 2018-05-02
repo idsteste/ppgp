@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525287335536.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "90F90A1E",
+    "lastKnownWriteTime" : 1525287361,
+    "last_content_update" : 1525287361580,
+    "path" : "~/Dropbox/Iara/DOUTORADO/Tabelas - organismos/ppgp/ppgp/R/generate_tree.R",
+    "project_path" : "R/generate_tree.R",
+    "properties" : {
+        "cursorPosition" : "13,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
